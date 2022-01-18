@@ -48,3 +48,15 @@ Experience has taught me that _respectful_ argument is one of the best innovatio
 
 #### **Transparency is King** 
 In software (and life), hidden states create inefficiencies. I do not believe that overcommunication is a real thing. I will take open, awkward "TMI" moments over veiled pleasantries every day of the week (and twice on Sunday).
+
+## **Et cetera**
+
+Some random non-work interests I have:
+- Dogs (all of them; I've never met one I wasn't absolutely in love with)
+- Caffeine (any form)
+- Neurobiology
+- Playing supporting roles
+- PC games with deep tech trees and massive grind requirements - Valheim, 7 Days to Die, Medieval Dynasty, etc
+- Hard sci-fi books/movies
+- Music that pushes speakers to their limit - filthy dubstep, metal, and so on
+- Political philosophy
