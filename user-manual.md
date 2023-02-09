@@ -12,7 +12,7 @@ My pronouns are he/him.
 
 **My preferred communication method** is asynchronous - i.e. IM or email.
 
-**"Flow" times are important.**  I block out large swaths of my day to focusing on development, but in reality my work flows in 60-90 minute [ultradian rhythms](https://www.fastcompany.com/3013188/why-you-need-to-unplug-every-90-minutes) - so feel free to message me and I will get back to you within 1.5 hours at the latest (usually sooner, because people come first).
+**"Flow" times are important, but you are more important.**  I block out large swaths of my day to focusing on development, but in reality my work flows in 60-90 minute [ultradian rhythms](https://www.fastcompany.com/3013188/why-you-need-to-unplug-every-90-minutes) - so feel free to message me and I will get back to you within 1.5 hours at the latest (usually sooner, because people come first).
 
 ## **Philosophy**
 
