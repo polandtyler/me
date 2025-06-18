@@ -1,6 +1,7 @@
 ## Phase 1: Strengthen Foundations (Months 1-3)
 **Goal:** Refresh the essential mathematics, programming, and computer science concepts needed for machine learning.
-![](roadmap%202.png)
+
+![phase-1-core-ml](https://github.com/user-attachments/assets/d0d797f3-1de9-4c93-a588-05708caff0fe)
 
 #### Maths
  -  Brush up on Linear Algebra
@@ -45,6 +46,8 @@
 ---
 
 ## Phase 2: Core ML (Months 4 – 6)
+
+![phase-2-core-ml](https://github.com/user-attachments/assets/b27c2618-a40c-477d-bc11-9509d69d49ab)
 
 **Goal:** Build a thorough understanding of fundamental machine learning algorithms and practices, and apply them to simple projects.
 
@@ -106,7 +109,6 @@
 _If needed, extend to 4–5 months – mastering these basics is crucial before moving on._
 
 > **Goal of Phase 2:** Have a firm grasp of core ML algorithms and how to apply them to real data. Able to discuss and implement things like linear vs. nonlinear models, evaluation metrics, and the workflow of an ML project (data preparation to model deployment in a notebook). Also have initial project(s) to showcase, demonstrating skills in data handling and classical ML.
-
 
 ---
 
